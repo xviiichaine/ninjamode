@@ -1,0 +1,4 @@
+ninjamode
+=========
+
+for capstone project
